@@ -1,5 +1,5 @@
 {
-  "name": "react-data-export",
+  "name": "react-export-excel",
   "version": "0.6.0",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
